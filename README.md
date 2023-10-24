@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Greg</h1>
 <h3 align="center">A passionate Computer Scientist and Developer from Southern California</h3>
 
-- 🔭 I’m currently working on **Bass Logic which is a project aimed at helping and educating percussionast in the marching arts, specifically marching bass drummers.**
+- 🔭 I’m currently working on **I.G. CPR and More which provides professional medical training at your home or business.  https://igcprandmore.org/**
 
 - 🌱 I’m currently learning **The React Framework to better my Front-End skills**
 
 - 👨‍💻 All of my projects are available at [https://www.gregory-vasquez.com/](https://www.gregory-vasquez.com/)
 
-- 💬 Ask me about **how my Masters program is going.**
+- 💬 Ask me about **Tailwind and way I LOVE it 😁.**
 
 - 📫 How to reach me **vasquez.gregcs@gmail.com**
 
