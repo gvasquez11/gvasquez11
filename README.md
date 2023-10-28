@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/programminggreg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="programminggreg" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/gregory-vasquez-96413b184/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gregory-vasquez-96413b184/" height="30" width="40" /></a>
-<a href="https://www.gregory-vasquez.com/" target="blank"> <img align="center" src="![LogoFinal](https://github.com/gvasquez11/gvasquez11/assets/36422346/40e831c9-d283-4374-9e0f-0b7eef41e1ad)" alt="Portfolio" > </a>
+<a href="https://www.gregory-vasquez.com/" target="blank"> <img align="center" src="https://github.com/gvasquez11/gvasquez11/assets/36422346/40e831c9-d283-4374-9e0f-0b7eef41e1ad" alt="Portfolio" > </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
