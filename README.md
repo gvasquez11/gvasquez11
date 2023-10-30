@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Greg</h1>
 <h3 align="center">A passionate Computer Scientist and Developer from Southern California</h3>
 
-- 🔭 I’m currently working on **I.G. CPR and More which provides professional medical training at your home or business.  https://igcprandmore.org/**
+- 🔭 I’m currently working on **"I.G. CPR and More" which provides professional medical training at your home or business.  https://igcprandmore.org/**
 
 - 🌱 I’m currently learning **The React Framework to better my Front-End skills**
 
