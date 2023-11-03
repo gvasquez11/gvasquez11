@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available here on Github but you can also check out my page at [https://www.gregory-vasquez.com/](https://www.gregory-vasquez.com/)
 
-- 💬 Ask me about **Tailwind and why I LOVE it 😁.**
+- 💬 Ask me about **Tailwind and why I LOVE it! 😁.**
 
 - 📫 How to reach me **vasquez.gregcs@gmail.com**
 
