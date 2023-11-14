@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **"I.G. CPR and More" which provides professional medical training at your home or business. Check it out at: https://igcprandmore.org/**
 
-- 🌱 I’m currently learning **The React Framework to better my Front-End skills**
+- 🌱 I’m currently learning **The React Framework to better my Front-End skills.**
 
 - 👨‍💻 All of my projects are available here on Github but you can also check out my page at [https://www.gregory-vasquez.com/](https://www.gregory-vasquez.com/)
 
