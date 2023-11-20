@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Tailwind and why I LOVE it! 😁**
 
-- 📫 How to reach me **vasquez.gregcs@gmail.com** or any of my social media accounts.
+- 📫 How to reach me, **vasquez.gregcs@gmail.com** or any of my social media accounts.
 
 - ⚡ Fun fact, **I'm a musician.** Specifically, I play the drums! 🥁😄
 
