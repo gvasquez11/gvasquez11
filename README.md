@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **The React Framework to better my Front-End skills.**
 
-- 👨‍💻 All of my projects are available here on Github, but you can also check out my page at [https://www.gregory-vasquez.com/](https://www.gregory-vasquez.com/)
+- 👨‍💻 All of my projects are available here on Github, but you can also check out my portfolio at [https://www.gregory-vasquez.com/](https://www.gregory-vasquez.com/)
 
 - 💬 Ask me about **Tailwind and why I LOVE it! 😁**
 
