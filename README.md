@@ -11,7 +11,7 @@
 
 - 📫 How to reach me, **vasquez.gregcs@gmail.com** or any of my social media accounts.
 
-- ⚡ Fun fact, **I'm a musician.** Specifically, I play the drums! 🥁😄
+- ⚡ Fun fact, **I'm a musician.** Specifically, I play the drums! 🥁😄 I was also part of the Blue Devils Drum and Bugle Corps! 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
